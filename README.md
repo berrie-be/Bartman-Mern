@@ -1,4 +1,4 @@
-# Created an EC2 instance with the specifications as 20 GB storage and t3.micro and security group that allows inbound traffic on ports 22 (SSH), 80 (HTTP), 3000, 3001 (for web applications), and 27017 (MongoDB).  
+### Created an EC2 instance with the specifications as 20 GB storage and t3.micro and security group that allows inbound traffic on ports 22 (SSH), 80 (HTTP), 3000, 3001 (for web applications), and 27017 (MongoDB).  
   
 <img width="1072" height="371" alt="image" src="https://github.com/user-attachments/assets/aa950082-bf38-4ce1-8d97-f367b46c2025" />    
 <img width="886" height="155" alt="image" src="https://github.com/user-attachments/assets/f39355c2-ead5-49fc-a33d-872120576412" />    
@@ -23,6 +23,18 @@ docker build -t backend .
 docker build -t frontend .  
   
 <img width="422" height="49" alt="image" src="https://github.com/user-attachments/assets/385b656b-c767-4d48-8d1b-3abf5f5d99e7" />  
+  
+### Run the docker images now  
+### Backend  
+<img width="1097" height="28" alt="image" src="https://github.com/user-attachments/assets/a66a8ea0-617b-4e1e-ae43-47676abbe453" />  
+<img width="431" height="120" alt="image" src="https://github.com/user-attachments/assets/d43bf097-3ff2-4c99-9f60-ba7349e91904" />  
+  
+### Frontend  
+<img width="706" height="38" alt="image" src="https://github.com/user-attachments/assets/5aca4c40-5a3b-4fe0-b128-012dd3b10a34" />  
+<img width="414" height="133" alt="image" src="https://github.com/user-attachments/assets/f1406ccd-5354-4ac0-b491-e764d02b0e3f" />  
+
+
+
 
 
 
